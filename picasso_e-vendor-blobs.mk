@@ -98,4 +98,5 @@ PRODUCT_COPY_FILES += \
     vendor/acer/picasso_e/proprietary/lib/libnvwinsys.so:/system/lib/libnvwinsys.so \
     vendor/acer/picasso_e/proprietary/lib/libnvwsi.so:/system/lib/libnvwsi.so \
     vendor/acer/picasso_e/proprietary/lib/libstagefrighthw.so:/system/lib/libstagefrighthw.so \
+    vendor/acer/picasso_e/proprietary/lib/modules/ufsd.ko:/system/lib/modules/ufsd.ko \
     vendor/acer/picasso_e/proprietary/lib/omxplayer.so:/system/lib/omxplayer.so \
