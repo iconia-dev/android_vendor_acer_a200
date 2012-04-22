@@ -46,7 +46,6 @@ PRODUCT_COPY_FILES += \
     vendor/acer/picasso_e/proprietary/lib/hw/lights.picasso_e.so:/system/lib/hw/lights.picasso_e.so \
     vendor/acer/picasso_e/proprietary/lib/hw/sensors.tegra.so:/system/lib/hw/sensors.tegra.so \
     vendor/acer/picasso_e/proprietary/lib/libardrv_dynamic.so:/system/lib/libardrv_dynamic.so \
-    vendor/acer/picasso_e/proprietary/lib/libasound.so:/system/lib/libasound.so \
     vendor/acer/picasso_e/proprietary/lib/libcgdrv.so:/system/lib/libcgdrv.so \
     vendor/acer/picasso_e/proprietary/lib/libmllite.so:/system/lib/libmllite.so \
     vendor/acer/picasso_e/proprietary/lib/libmlplatform.so:/system/lib/libmlplatform.so \
