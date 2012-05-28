@@ -97,5 +97,4 @@ PRODUCT_COPY_FILES += \
     vendor/acer/a200/proprietary/lib/libnvwinsys.so:/system/lib/libnvwinsys.so \
     vendor/acer/a200/proprietary/lib/libnvwsi.so:/system/lib/libnvwsi.so \
     vendor/acer/a200/proprietary/lib/libstagefrighthw.so:/system/lib/libstagefrighthw.so \
-    vendor/acer/a200/proprietary/lib/modules/ufsd.ko:/system/lib/modules/ufsd.ko \
     vendor/acer/a200/proprietary/lib/omxplayer.so:/system/lib/omxplayer.so \
